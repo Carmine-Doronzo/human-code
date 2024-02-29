@@ -1,4 +1,5 @@
-# Aprire un pacchetto di figurine
+# Team 4
+## Aprire un pacchetto di figurine
 - Prendo il pacchetto di figurine
 - Apro il pacchetto di figurine
 - Sfilo le figurine dal pacchetto
